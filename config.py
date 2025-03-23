@@ -10,6 +10,7 @@ BASE_PATH = os.path.abspath(os.path.dirname(__file__))
 DATA_PATH = os.path.join(BASE_PATH, "data")
 
 
+a = 10
 
 """
 print(f'当前路径为：{os.getcwd()}')
