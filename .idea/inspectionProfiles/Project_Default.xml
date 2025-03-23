@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="login1.*" />
+          <option value="python_11_unittest框架.python_02_testsuite_testrunner.test_method1" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

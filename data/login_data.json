@@ -1,0 +1,5 @@
+[
+  {"request_body": {"username": "18100000001", "password": "123456", "verify_code": "8888"}, "status": 1, "msg": "成功", "status_code": 200},
+  {"request_body": {"username": "18100000001", "password": "123123", "verify_code": "8888"}, "status": -2, "msg": "密码错误", "status_code": 200},
+  {"request_body": {"username": "18200000001", "password": "123456", "verify_code": "8888"}, "status": -1, "msg": "账号不存在", "status_code": 200}
+]
